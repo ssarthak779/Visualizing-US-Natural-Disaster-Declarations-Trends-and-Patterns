@@ -1,4 +1,4 @@
-<img width="1866" height="970" alt="image" src="https://github.com/user-attachments/assets/34d2bea6-dcf0-486f-bbba-36c1d98c0102" /># Nakka Hitesh Nag Reddy
+## Nakka Hitesh Nag Reddy
 ## Basic Information
 - College: Raghu Engineering College
 - Branch : Computer Science Engineering With Specialization in Data Science
